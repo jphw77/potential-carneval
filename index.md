@@ -1,8 +1,6 @@
 ---
-title: Hello!
 
-text: Min lila text
+title: Hello! Det här är min blogg
 
-a: Nisse
 ---
 
