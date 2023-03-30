@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+title: Hello!
 
-# Rubrik
+text: Min lila text
 
-Testar lite för att se vad som händer och lära mig om Github
+a: Nisse
 ---
 
