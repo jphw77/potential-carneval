@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Hello!
+
+text: Min lila text
+
+a: Nisse
 ---
 
