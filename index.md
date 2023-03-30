@@ -1,5 +1,5 @@
 ---
-title: Hello! Det här är min blogg
+title: Hello! 
 ---
 
 # Welcome
